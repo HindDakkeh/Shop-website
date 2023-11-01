@@ -1,1 +1,1 @@
-# Shop-website
+The project involves creating a website for Alice, a new business owner specializing in health tracking and smart home devices. Facing challenges in customer acquisition, she seeks to establish an online presence to expand her reach. I develop and style the website, using Html for structuring the content and layout of the website and CSS for enhanced visual appeal and user experience, aiming to attract more customers and visitors to her business. # Shop-website
